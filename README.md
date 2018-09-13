@@ -22,9 +22,9 @@
 |004|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [python](.&#x2F;solutions&#x2F;004.median-of-two-sorted-arrays&#x2F;median-of-two-sorted-arrays.py)|Hard|23.84%||
 |005|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)| [python](.&#x2F;solutions&#x2F;005.longest-palindromic-substring&#x2F;longest-palindromic-substring.py)|Medium|25.62%||
 |006|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/)| [python](.&#x2F;solutions&#x2F;006.zigzag-conversion&#x2F;zigzag-conversion.py)|Medium|28.51%||
-|007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [java](.&#x2F;solutions&#x2F;007.reverse-integer&#x2F;reverse-integer.java) [python](.&#x2F;solutions&#x2F;007.reverse-integer&#x2F;reverse-integer.py)|Easy|24.43%||
+|007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [python](.&#x2F;solutions&#x2F;007.reverse-integer&#x2F;reverse-integer.py) [java](.&#x2F;solutions&#x2F;007.reverse-integer&#x2F;reverse-integer.java)|Easy|24.43%||
 |008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [python](.&#x2F;solutions&#x2F;008.string-to-integer-atoi&#x2F;string-to-integer-atoi.py)|Medium|14.14%||
-|009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [python](.&#x2F;solutions&#x2F;009.palindrome-number&#x2F;palindrome-number.py)|Easy|38.26%||
+|009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [python](.&#x2F;solutions&#x2F;009.palindrome-number&#x2F;palindrome-number.py) [java](.&#x2F;solutions&#x2F;009.palindrome-number&#x2F;palindrome-number.java)|Easy|38.26%||
 |011|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/)| [python](.&#x2F;solutions&#x2F;011.container-with-most-water&#x2F;container-with-most-water.py)|Medium|38.55%||
 |012|[integer-to-roman](https://leetcode.com/problems/integer-to-roman/)| [python](.&#x2F;solutions&#x2F;012.integer-to-roman&#x2F;integer-to-roman.py)|Medium|47.59%||
 |013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [python](.&#x2F;solutions&#x2F;013.roman-to-integer&#x2F;roman-to-integer.py)|Easy|49.42%||
@@ -42,13 +42,13 @@
 |034|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [python](.&#x2F;solutions&#x2F;034.find-first-and-last-position-of-element-in-sorted-array&#x2F;find-first-and-last-position-of-element-in-sorted-array.py)|Medium|31.99%||
 |035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [python](.&#x2F;solutions&#x2F;035.search-insert-position&#x2F;search-insert-position.py)|Easy|40.01%||
 |038|[count-and-say](https://leetcode.com/problems/count-and-say/)| [python](.&#x2F;solutions&#x2F;038.count-and-say&#x2F;count-and-say.py)|Easy|37.81%||
-|041|[first-missing-positive](https://leetcode.com/problems/first-missing-positive/)| [python](.&#x2F;solutions&#x2F;041.first-missing-positive&#x2F;first-missing-positive.py)|Hard|26.72%||
+|041|[first-missing-positive](https://leetcode.com/problems/first-missing-positive/)| [python](.&#x2F;solutions&#x2F;041.first-missing-positive&#x2F;first-missing-positive.py)|Hard|26.73%||
 |045|[jump-game-ii](https://leetcode.com/problems/jump-game-ii/)| [python](.&#x2F;solutions&#x2F;045.jump-game-ii&#x2F;jump-game-ii.py)|Hard|26.29%||
 |050|[powx-n](https://leetcode.com/problems/powx-n/)| [python](.&#x2F;solutions&#x2F;050.powx-n&#x2F;powx-n.py)|Medium|26.53%||
 |053|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)| [python](.&#x2F;solutions&#x2F;053.maximum-subarray&#x2F;maximum-subarray.py)|Easy|41.16%||
 |055|[jump-game](https://leetcode.com/problems/jump-game/)| [python](.&#x2F;solutions&#x2F;055.jump-game&#x2F;jump-game.py)|Medium|30.19%||
 |058|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)| [python](.&#x2F;solutions&#x2F;058.length-of-last-word&#x2F;length-of-last-word.py)|Easy|32.09%||
-|066|[plus-one](https://leetcode.com/problems/plus-one/)| [python](.&#x2F;solutions&#x2F;066.plus-one&#x2F;plus-one.py)|Easy|39.99%||
+|066|[plus-one](https://leetcode.com/problems/plus-one/)| [python](.&#x2F;solutions&#x2F;066.plus-one&#x2F;plus-one.py)|Easy|40.00%||
 |067|[add-binary](https://leetcode.com/problems/add-binary/)| [python](.&#x2F;solutions&#x2F;067.add-binary&#x2F;add-binary.py)|Easy|35.62%||
 |069|[sqrtx](https://leetcode.com/problems/sqrtx/)| [python](.&#x2F;solutions&#x2F;069.sqrtx&#x2F;sqrtx.py)|Easy|29.48%||
 |070|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)| [python](.&#x2F;solutions&#x2F;070.climbing-stairs&#x2F;climbing-stairs.py)|Easy|42.00%||
@@ -68,34 +68,34 @@
 |100|[same-tree](https://leetcode.com/problems/same-tree/)| [python](.&#x2F;solutions&#x2F;100.same-tree&#x2F;same-tree.py)|Easy|48.41%||
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree/)| [python](.&#x2F;solutions&#x2F;101.symmetric-tree&#x2F;symmetric-tree.py)|Easy|41.36%||
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [python](.&#x2F;solutions&#x2F;102.binary-tree-level-order-traversal&#x2F;binary-tree-level-order-traversal.py)|Medium|44.52%||
-|103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||Medium|38.29%||
+|103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [python](.&#x2F;solutions&#x2F;103.binary-tree-zigzag-level-order-traversal&#x2F;binary-tree-zigzag-level-order-traversal.py)|Medium|38.29%||
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [python](.&#x2F;solutions&#x2F;104.maximum-depth-of-binary-tree&#x2F;maximum-depth-of-binary-tree.py)|Easy|56.75%||
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [python](.&#x2F;solutions&#x2F;105.construct-binary-tree-from-preorder-and-inorder-traversal&#x2F;construct-binary-tree-from-preorder-and-inorder-traversal.py)|Medium|36.43%||
-|106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [python](.&#x2F;solutions&#x2F;106.construct-binary-tree-from-inorder-and-postorder-traversal&#x2F;construct-binary-tree-from-inorder-and-postorder-traversal.py)|Medium|35.58%||
+|106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [python](.&#x2F;solutions&#x2F;106.construct-binary-tree-from-inorder-and-postorder-traversal&#x2F;construct-binary-tree-from-inorder-and-postorder-traversal.py)|Medium|35.59%||
 |107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [python](.&#x2F;solutions&#x2F;107.binary-tree-level-order-traversal-ii&#x2F;binary-tree-level-order-traversal-ii.py)|Easy|43.66%||
-|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)||Easy|46.43%||
+|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [python](.&#x2F;solutions&#x2F;108.convert-sorted-array-to-binary-search-tree&#x2F;convert-sorted-array-to-binary-search-tree.py)|Easy|46.43%||
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [python](.&#x2F;solutions&#x2F;109.convert-sorted-list-to-binary-search-tree&#x2F;convert-sorted-list-to-binary-search-tree.py)|Medium|37.22%||
-|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)||Easy|39.17%||
-|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)||Easy|34.05%||
-|112|[path-sum](https://leetcode.com/problems/path-sum/)||Easy|35.78%||
-|113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii/)||Medium|37.33%||
-|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)||Medium|38.37%||
-|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)||Medium|36.63%||
-|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)||Medium|33.59%||
-|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle/)||Easy|41.93%||
-|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/)||Easy|39.80%||
-|120|[triangle](https://leetcode.com/problems/triangle/)||Medium|36.34%||
-|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||Easy|44.23%||
-|122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||Easy|49.06%||
-|124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)||Hard|27.89%||
-|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)||Easy|28.39%||
-|128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)||Hard|39.26%||
-|129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)||Medium|39.31%||
-|136|[single-number](https://leetcode.com/problems/single-number/)||Easy|56.87%||
-|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)||Easy|34.70%||
-|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)||Medium|48.34%||
-|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)||Hard|44.20%||
-|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list/)||Medium|34.94%||
-|148|[sort-list](https://leetcode.com/problems/sort-list/)||Medium|31.62%||
-|150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)||Medium|29.67%||
+|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)| [python](.&#x2F;solutions&#x2F;110.balanced-binary-tree&#x2F;balanced-binary-tree.py)|Easy|39.17%||
+|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [python](.&#x2F;solutions&#x2F;111.minimum-depth-of-binary-tree&#x2F;minimum-depth-of-binary-tree.py)|Easy|34.05%||
+|112|[path-sum](https://leetcode.com/problems/path-sum/)| [python](.&#x2F;solutions&#x2F;112.path-sum&#x2F;path-sum.py)|Easy|35.78%||
+|113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii/)| [python](.&#x2F;solutions&#x2F;113.path-sum-ii&#x2F;path-sum-ii.py)|Medium|37.33%||
+|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [python](.&#x2F;solutions&#x2F;114.flatten-binary-tree-to-linked-list&#x2F;flatten-binary-tree-to-linked-list.py)|Medium|38.37%||
+|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [python](.&#x2F;solutions&#x2F;116.populating-next-right-pointers-in-each-node&#x2F;populating-next-right-pointers-in-each-node.py)|Medium|36.63%||
+|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [python](.&#x2F;solutions&#x2F;117.populating-next-right-pointers-in-each-node-ii&#x2F;populating-next-right-pointers-in-each-node-ii.py)|Medium|33.59%||
+|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle/)| [python](.&#x2F;solutions&#x2F;118.pascals-triangle&#x2F;pascals-triangle.py)|Easy|41.93%||
+|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/)| [python](.&#x2F;solutions&#x2F;119.pascals-triangle-ii&#x2F;pascals-triangle-ii.py)|Easy|39.80%||
+|120|[triangle](https://leetcode.com/problems/triangle/)| [python](.&#x2F;solutions&#x2F;120.triangle&#x2F;triangle.py)|Medium|36.34%||
+|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [python](.&#x2F;solutions&#x2F;121.best-time-to-buy-and-sell-stock&#x2F;best-time-to-buy-and-sell-stock.py)|Easy|44.23%||
+|122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [python](.&#x2F;solutions&#x2F;122.best-time-to-buy-and-sell-stock-ii&#x2F;best-time-to-buy-and-sell-stock-ii.py)|Easy|49.06%||
+|124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [python](.&#x2F;solutions&#x2F;124.binary-tree-maximum-path-sum&#x2F;binary-tree-maximum-path-sum.py)|Hard|27.89%||
+|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)| [python](.&#x2F;solutions&#x2F;125.valid-palindrome&#x2F;valid-palindrome.py)|Easy|28.40%||
+|128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [python](.&#x2F;solutions&#x2F;128.longest-consecutive-sequence&#x2F;longest-consecutive-sequence.py)|Hard|39.26%||
+|129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [python](.&#x2F;solutions&#x2F;129.sum-root-to-leaf-numbers&#x2F;sum-root-to-leaf-numbers.py)|Medium|39.32%||
+|136|[single-number](https://leetcode.com/problems/single-number/)| [python](.&#x2F;solutions&#x2F;136.single-number&#x2F;single-number.py)|Easy|56.87%||
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)| [python](.&#x2F;solutions&#x2F;141.linked-list-cycle&#x2F;linked-list-cycle.py)|Easy|34.70%||
+|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [python](.&#x2F;solutions&#x2F;144.binary-tree-preorder-traversal&#x2F;binary-tree-preorder-traversal.py)|Medium|48.34%||
+|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [python](.&#x2F;solutions&#x2F;145.binary-tree-postorder-traversal&#x2F;binary-tree-postorder-traversal.py)|Hard|44.20%||
+|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list/)| [python](.&#x2F;solutions&#x2F;147.insertion-sort-list&#x2F;insertion-sort-list.py)|Medium|34.94%||
+|148|[sort-list](https://leetcode.com/problems/sort-list/)| [python](.&#x2F;solutions&#x2F;148.sort-list&#x2F;sort-list.py)|Medium|31.62%||
+|150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [python](.&#x2F;solutions&#x2F;150.evaluate-reverse-polish-notation&#x2F;evaluate-reverse-polish-notation.py)|Medium|29.68%||
 
