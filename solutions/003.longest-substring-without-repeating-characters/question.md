@@ -6,7 +6,7 @@ Example 1:
 
 Input: &quot;abcabcbb&quot;
 Output: 3 
-Explanation: The answer is &quot;abc&quot;, which the length is 3.
+Explanation: The answer is &quot;abc&quot;, with the length of 3. 
 
 
 
