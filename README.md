@@ -10,12 +10,50 @@
 <p align="center">
     <b>Language: python java go</b>
     <br>
-    <b>Last updated: 2018-09-13</b>
+    <b>Last updated: 2018-09-14</b>
     <br><br>
 </p>
 
 | # | Problems | Solutions | Difficulty | Acceptance | Paid-Only
 |:--:|:-----:|:---------:|:----:|:----:|:----:|
+|001|[two-sum](https://leetcode.com/problems/two-sum/)| [java](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.java) [python](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.py)|Easy|38.83%||
+|002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [python](.&#x2F;solutions&#x2F;002.add-two-numbers&#x2F;add-two-numbers.py)|Medium|29.14%||
+|003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [python](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.py)|Medium|25.01%||
+|004|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [python](.&#x2F;solutions&#x2F;004.median-of-two-sorted-arrays&#x2F;median-of-two-sorted-arrays.py)|Hard|23.85%||
+|005|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)| [python](.&#x2F;solutions&#x2F;005.longest-palindromic-substring&#x2F;longest-palindromic-substring.py)|Medium|25.61%||
+|006|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/)| [python](.&#x2F;solutions&#x2F;006.zigzag-conversion&#x2F;zigzag-conversion.py)|Medium|28.51%||
+|007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [python](.&#x2F;solutions&#x2F;007.reverse-integer&#x2F;reverse-integer.py) [java](.&#x2F;solutions&#x2F;007.reverse-integer&#x2F;reverse-integer.java)|Easy|24.43%||
+|008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [python](.&#x2F;solutions&#x2F;008.string-to-integer-atoi&#x2F;string-to-integer-atoi.py)|Medium|14.14%||
+|009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [python](.&#x2F;solutions&#x2F;009.palindrome-number&#x2F;palindrome-number.py) [java](.&#x2F;solutions&#x2F;009.palindrome-number&#x2F;palindrome-number.java)|Easy|38.28%||
+|011|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/)| [python](.&#x2F;solutions&#x2F;011.container-with-most-water&#x2F;container-with-most-water.py)|Medium|38.57%||
+|012|[integer-to-roman](https://leetcode.com/problems/integer-to-roman/)| [python](.&#x2F;solutions&#x2F;012.integer-to-roman&#x2F;integer-to-roman.py)|Medium|47.60%||
+|013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [python](.&#x2F;solutions&#x2F;013.roman-to-integer&#x2F;roman-to-integer.py) [java](.&#x2F;solutions&#x2F;013.roman-to-integer&#x2F;roman-to-integer.java)|Easy|49.43%||
+|014|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/)| [python](.&#x2F;solutions&#x2F;014.longest-common-prefix&#x2F;longest-common-prefix.py) [java](.&#x2F;solutions&#x2F;014.longest-common-prefix&#x2F;longest-common-prefix.java)|Easy|31.92%||
+|017|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [python](.&#x2F;solutions&#x2F;017.letter-combinations-of-a-phone-number&#x2F;letter-combinations-of-a-phone-number.py)|Medium|37.99%||
+|019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [python](.&#x2F;solutions&#x2F;019.remove-nth-node-from-end-of-list&#x2F;remove-nth-node-from-end-of-list.py)|Medium|33.68%||
+|020|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)| [java](.&#x2F;solutions&#x2F;020.valid-parentheses&#x2F;valid-parentheses.java) [python](.&#x2F;solutions&#x2F;020.valid-parentheses&#x2F;valid-parentheses.py)|Easy|34.56%||
+|021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [python](.&#x2F;solutions&#x2F;021.merge-two-sorted-lists&#x2F;merge-two-sorted-lists.py) [java](.&#x2F;solutions&#x2F;021.merge-two-sorted-lists&#x2F;merge-two-sorted-lists.java)|Easy|43.02%||
+|023|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [python](.&#x2F;solutions&#x2F;023.merge-k-sorted-lists&#x2F;merge-k-sorted-lists.py)|Hard|30.07%||
+|026|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [python](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.py) [java](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.java)|Easy|37.74%||
+|027|[remove-element](https://leetcode.com/problems/remove-element/)| [java](.&#x2F;solutions&#x2F;027.remove-element&#x2F;remove-element.java) [python](.&#x2F;solutions&#x2F;027.remove-element&#x2F;remove-element.py)|Easy|41.93%||
+|028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [python](.&#x2F;solutions&#x2F;028.implement-strstr&#x2F;implement-strstr.py) [java](.&#x2F;solutions&#x2F;028.implement-strstr&#x2F;implement-strstr.java)|Easy|29.90%||
+|032|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [python](.&#x2F;solutions&#x2F;032.longest-valid-parentheses&#x2F;longest-valid-parentheses.py)|Hard|23.78%||
+|033|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [python](.&#x2F;solutions&#x2F;033.search-in-rotated-sorted-array&#x2F;search-in-rotated-sorted-array.py)|Medium|32.06%||
+|034|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [python](.&#x2F;solutions&#x2F;034.find-first-and-last-position-of-element-in-sorted-array&#x2F;find-first-and-last-position-of-element-in-sorted-array.py)|Medium|31.99%||
+|035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [python](.&#x2F;solutions&#x2F;035.search-insert-position&#x2F;search-insert-position.py)|Easy|40.01%||
+|038|[count-and-say](https://leetcode.com/problems/count-and-say/)| [python](.&#x2F;solutions&#x2F;038.count-and-say&#x2F;count-and-say.py)|Easy|37.82%||
+|041|[first-missing-positive](https://leetcode.com/problems/first-missing-positive/)| [python](.&#x2F;solutions&#x2F;041.first-missing-positive&#x2F;first-missing-positive.py)|Hard|26.73%||
+|045|[jump-game-ii](https://leetcode.com/problems/jump-game-ii/)| [python](.&#x2F;solutions&#x2F;045.jump-game-ii&#x2F;jump-game-ii.py)|Hard|26.30%||
+|050|[powx-n](https://leetcode.com/problems/powx-n/)| [python](.&#x2F;solutions&#x2F;050.powx-n&#x2F;powx-n.py)|Medium|26.54%||
+|053|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)| [python](.&#x2F;solutions&#x2F;053.maximum-subarray&#x2F;maximum-subarray.py)|Easy|41.16%||
+|055|[jump-game](https://leetcode.com/problems/jump-game/)| [python](.&#x2F;solutions&#x2F;055.jump-game&#x2F;jump-game.py)|Medium|30.20%||
+|058|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)| [python](.&#x2F;solutions&#x2F;058.length-of-last-word&#x2F;length-of-last-word.py)|Easy|32.09%||
+|066|[plus-one](https://leetcode.com/problems/plus-one/)| [python](.&#x2F;solutions&#x2F;066.plus-one&#x2F;plus-one.py)|Easy|39.99%||
+|067|[add-binary](https://leetcode.com/problems/add-binary/)| [python](.&#x2F;solutions&#x2F;067.add-binary&#x2F;add-binary.py)|Easy|35.63%||
+|069|[sqrtx](https://leetcode.com/problems/sqrtx/)| [python](.&#x2F;solutions&#x2F;069.sqrtx&#x2F;sqrtx.py)|Easy|29.48%||
+|070|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)| [python](.&#x2F;solutions&#x2F;070.climbing-stairs&#x2F;climbing-stairs.py)|Easy|42.00%||
+|074|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [python](.&#x2F;solutions&#x2F;074.search-a-2d-matrix&#x2F;search-a-2d-matrix.py)|Medium|34.48%||
+|075|[sort-colors](https://leetcode.com/problems/sort-colors/)| [python](.&#x2F;solutions&#x2F;075.sort-colors&#x2F;sort-colors.py)|Medium|39.89%||
 |080|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [python](.&#x2F;solutions&#x2F;080.remove-duplicates-from-sorted-array-ii&#x2F;remove-duplicates-from-sorted-array-ii.py)|Medium|38.06%||
 |081|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [python](.&#x2F;solutions&#x2F;081.search-in-rotated-sorted-array-ii&#x2F;search-in-rotated-sorted-array-ii.py)|Medium|32.49%||
 |083|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [python](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.py)|Easy|40.86%||
