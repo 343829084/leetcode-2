@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-84/851(139)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-0-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-1-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-0-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-85/851(139)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-10-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-40-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-35-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -29,6 +29,7 @@
 |012|[integer-to-roman](https://leetcode.com/problems/integer-to-roman/)| [python](.&#x2F;solutions&#x2F;012.integer-to-roman&#x2F;integer-to-roman.py)|Medium|47.60%||
 |013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [python](.&#x2F;solutions&#x2F;013.roman-to-integer&#x2F;roman-to-integer.py) [java](.&#x2F;solutions&#x2F;013.roman-to-integer&#x2F;roman-to-integer.java)|Easy|49.43%||
 |014|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/)| [python](.&#x2F;solutions&#x2F;014.longest-common-prefix&#x2F;longest-common-prefix.py) [java](.&#x2F;solutions&#x2F;014.longest-common-prefix&#x2F;longest-common-prefix.java)|Easy|31.92%||
+|015|[3sum](https://leetcode.com/problems/3sum/)| [java](.&#x2F;solutions&#x2F;015.3sum&#x2F;3sum.java)|Medium|22.06%||
 |017|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [python](.&#x2F;solutions&#x2F;017.letter-combinations-of-a-phone-number&#x2F;letter-combinations-of-a-phone-number.py)|Medium|37.99%||
 |019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [python](.&#x2F;solutions&#x2F;019.remove-nth-node-from-end-of-list&#x2F;remove-nth-node-from-end-of-list.py)|Medium|33.68%||
 |020|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)| [java](.&#x2F;solutions&#x2F;020.valid-parentheses&#x2F;valid-parentheses.java) [python](.&#x2F;solutions&#x2F;020.valid-parentheses&#x2F;valid-parentheses.py)|Easy|34.56%||
