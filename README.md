@@ -100,6 +100,6 @@
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list/)| [python](.&#x2F;solutions&#x2F;147.insertion-sort-list&#x2F;insertion-sort-list.py)|Medium|34.94%||
 |148|[sort-list](https://leetcode.com/problems/sort-list/)| [python](.&#x2F;solutions&#x2F;148.sort-list&#x2F;sort-list.py)|Medium|31.63%||
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [python](.&#x2F;solutions&#x2F;150.evaluate-reverse-polish-notation&#x2F;evaluate-reverse-polish-notation.py)|Medium|29.68%||
-|198|[house-robber](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [java](./solution/198.house-robber/house-robber.java)|Easy|40.40%||
+|198|[house-robber](https://leetcode.com/problems/house-robber/)| [java](.&#x2F;solutions&#x2F;198.house-robber&#x2F;house-robber.java)|Easy|40.41%||
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands/)| [python](.&#x2F;solutions&#x2F;200.number-of-islands&#x2F;number-of-islands.py)|Medium|37.91%||
 
